@@ -12,7 +12,7 @@ Testing the Refund Percentage Calculation Function
 - Filename: `GetVasyaTest..js`
 - Description: This file contains additional tests for the greeting website, including form submission tests with valid and invalid inputs, as well as testing the form reset functionality.
 
-### Task 3: Advanced Test for the Greeting Website
+### Task 3: Advanced Test for the Website
 - Filename: `AdavancedTest.js`
 - Description: This file contains advanced browser tests for the greeting website using Mocha and Selenium WebDriver, covering various scenarios and edge cases.
 
