@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "chai": "^5.1.0",
+    "chromedriver": "^121.0.2",
+    "mocha": "^10.3.0",
+    "selenium-webdriver": "^4.17.0"
+  },
+  "dependencies": {
+    "assert": "^2.1.0"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "mocha tests/*.js"
+  }
+}
